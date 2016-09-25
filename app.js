@@ -37,6 +37,10 @@
     quantity: "300"
   },
   {
+    name: "Sprite",
+    quantity: "3"
+  },
+  {
     name: "Chocolate",
     quantity: "5"
   }
